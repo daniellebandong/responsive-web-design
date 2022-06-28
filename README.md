@@ -1,5 +1,5 @@
 # Responsive Web Design
-This project was created in my Web Design Fundamentals class. The object was to create a single, responsive page using the Bootstrap 5.0 framework. All CSS styling was done using Bootstrap's pre-written CSS classes.
+This project was created in my Intermidiate Web Development class. The object was to create a single, responsive page using the Bootstrap 5.0 framework. All CSS styling was done using Bootstrap's pre-written CSS classes.
 
 ## Objectives
 The focus of this assignment was demonstrate well-formed and structured HTML markup from a reference image. Links are static and do not navigate to additional webpages.
